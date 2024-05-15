@@ -1,0 +1,748 @@
+id,title,pdf_path,year
+0706.3188v1,A tutorial on conformal prediction,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0706.3188v1.pdf,2007
+0802.1244v1,Learning Balanced Mixtures of Discrete Distributions with Small Sample,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0802.1244v1.pdf,2008
+0809.1493v1,"Exploring Large Feature Spaces with Hierarchical Multiple Kernel
+  Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0809.1493v1.pdf,2008
+0901.3150v4,Matrix Completion from a Few Entries,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0901.3150v4.pdf,2009
+0901.3202v1,Model-Consistent Sparse Estimation through the Bootstrap,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0901.3202v1.pdf,2009
+0902.0392v2,Tree Exploration for Bayesian RL Exploration,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0902.0392v2.pdf,2009
+0903.5328v1,A Stochastic View of Optimal Regret through Minimax Duality,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0903.5328v1.pdf,2009
+0904.0776v1,"Induction of High-level Behaviors from Problem-solving Traces using
+  Machine Learning Tools",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0904.0776v1.pdf,2009
+0906.2027v2,Matrix Completion from Noisy Entries,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0906.2027v2.pdf,2009
+0908.0570v1,The Infinite Hierarchical Factor Regression Model,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0908.0570v1.pdf,2009
+0908.0572v1,Streamed Learning: One-Pass SVMs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0908.0572v1.pdf,2009
+0910.0610v2,Regularization Techniques for Learning with Matrices,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0910.0610v2.pdf,2009
+0911.0054v2,"Learning Exponential Families in High-Dimensions: Strong Convexity and
+  Sparsity",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0911.0054v2.pdf,2009
+0912.1128v1,How to Explain Individual Classification Decisions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/0912.1128v1.pdf,2009
+1002.4802v2,Gaussian Process Structural Equation Models with Latent Variables,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1002.4802v2.pdf,2010
+1003.0079v3,Non-Sparse Regularization for Multiple Kernel Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1003.0079v3.pdf,2010
+1003.4944v1,"Incorporating Side Information in Probabilistic Matrix Factorization
+  with Gaussian Processes",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1003.4944v1.pdf,2010
+1004.0456v1,"Exploratory Analysis of Functional Data via Clustering and Optimal
+  Segmentation",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1004.0456v1.pdf,2010
+1005.0188v1,Generative and Latent Mean Map Kernels,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1005.0188v1.pdf,2010
+1005.0437v1,A Unifying View of Multiple Kernel Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1005.0437v1.pdf,2010
+1005.2263v2,Context models on sequences of covers,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1005.2263v2.pdf,2010
+1005.5337v1,Using a Kernel Adatron for Object Classification with RCS Data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1005.5337v1.pdf,2010
+1006.1138v3,Online Learning via Sequential Complexities,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1006.1138v3.pdf,2010
+1006.5051v1,Fast ABC-Boost for Multi-Class Classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1006.5051v1.pdf,2010
+1007.3564v3,Manifold Elastic Net: A Unified Framework for Sparse Dimension Reduction,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1007.3564v3.pdf,2010
+1008.4000v1,NESVM: a Fast Gradient Method for Support Vector Machines,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1008.4000v1.pdf,2010
+1008.5209v1,Network Flow Algorithms for Structured Sparsity,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1008.5209v1.pdf,2010
+1008.5386v1,Mixed Cumulative Distribution Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1008.5386v1.pdf,2010
+1009.3958v1,Approximate Inference and Stochastic Optimal Control,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1009.3958v1.pdf,2010
+1011.3090v2,Regularization Strategies and Empirical Bayesian Learning for MKL,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1011.3090v2.pdf,2010
+1011.5270v2,Classifying Clustering Schemes,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1011.5270v2.pdf,2010
+1011.5395v1,The Sample Complexity of Dictionary Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1011.5395v1.pdf,2010
+1011.6086v1,"In All Likelihood, Deep Belief Is Not Enough",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1011.6086v1.pdf,2010
+1012.0975v2,"Split Bregman Method for Sparse Inverse Covariance Estimation with
+  Matrix Iteration Acceleration",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1012.0975v2.pdf,2010
+1012.1501v2,Shaping Level Sets with Submodular Functions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1012.1501v2.pdf,2010
+1102.3923v2,Concentration-Based Guarantees for Low-Rank Matrix Reconstruction,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1102.3923v2.pdf,2011
+1102.3949v2,"Sparse Signal Recovery with Temporally Correlated Source Vectors Using
+  Sparse Bayesian Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1102.3949v2.pdf,2011
+1103.0102v2,Multi-label Learning via Structured Decomposition and Group Sparsity,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1103.0102v2.pdf,2011
+1103.0942v2,Generalization error bounds for stationary autoregressive models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1103.0942v2.pdf,2011
+1103.3095v1,A note on active learning for smooth problems,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1103.3095v1.pdf,2011
+1103.4480v1,Clustered regression with unknown clusters,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1103.4480v1.pdf,2011
+1103.4896v1,Classification of Sets using Restricted Boltzmann Machines,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1103.4896v1.pdf,2011
+1104.0729v4,Online and Batch Learning Algorithms for Data with Missing Features,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1104.0729v4.pdf,2011
+1104.1990v3,Adaptive Evolutionary Clustering,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1104.1990v3.pdf,2011
+1104.4512v1,Robust Clustering Using Outlier-Sparsity Regularization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1104.4512v1.pdf,2011
+1104.4803v4,Clustering Partially Observed Graphs via Convex Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1104.4803v4.pdf,2011
+1104.5687v2,Preference elicitation and inverse reinforcement learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1104.5687v2.pdf,2011
+1105.0382v1,Rapid Learning with Stochastic Focus of Attention,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1105.0382v1.pdf,2011
+1105.0540v2,Pruning nearest neighbor cluster trees,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1105.0540v2.pdf,2011
+1105.2054v2,Generalized Boosting Algorithms for Convex Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1105.2054v2.pdf,2011
+1105.2416v2,PAC-Bayesian Analysis of Martingales and Multiarmed Bandits,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1105.2416v2.pdf,2011
+1105.4585v1,PAC-Bayesian Analysis of the Exploration-Exploitation Trade-off,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1105.4585v1.pdf,2011
+1106.0730v2,Rademacher complexity of stationary sequences,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.0730v2.pdf,2011
+1106.0800v3,Optimal Reinforcement Learning for Gaussian Systems,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.0800v3.pdf,2011
+1106.0967v1,Hashing Algorithms for Large-Scale Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.0967v1.pdf,2011
+1106.1216v2,Using More Data to Speed-up Training Time,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.1216v2.pdf,2011
+1106.1622v1,Large-Scale Convex Minimization with a Low-Rank Constraint,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.1622v1.pdf,2011
+1106.2429v4,Efficient Transductive Online Learning via Randomized Rounding,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.2429v4.pdf,2011
+1106.2436v3,From Bandits to Experts: On the Value of Side-Observations,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.2436v3.pdf,2011
+1106.3651v2,Robust Bayesian reinforcement learning through tight lower bounds,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.3651v2.pdf,2011
+1106.4251v1,"Learning with the Weighted Trace-norm under Arbitrary Sampling
+  Distributions",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.4251v1.pdf,2011
+1106.4355v3,Tight Measurement Bounds for Exact Recovery of Structured Sparse Signals,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.4355v3.pdf,2011
+1106.5236v1,A General Framework for Structured Sparsity via Proximal Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1106.5236v1.pdf,2011
+1107.1283v2,Spectral Methods for Learning Multivariate Latent Tree Structure,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1107.1283v2.pdf,2011
+1107.2021v3,Multi-Instance Learning with Any Hypothesis Class,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1107.2021v3.pdf,2011
+1107.2462v2,Statistical Topic Models for Multi-Label Document Classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1107.2462v2.pdf,2011
+1107.3600v2,Unsupervised K-Nearest Neighbor Regression,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1107.3600v2.pdf,2011
+1108.2820v2,Ensemble Risk Modeling Method for Robust Learning on Scarce Data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1108.2820v2.pdf,2011
+1108.3154v2,Stability Conditions for Online Learnability,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1108.3154v2.pdf,2011
+1108.3476v2,Structured Sparsity and Generalization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1108.3476v2.pdf,2011
+1109.0455v1,Gradient-based kernel dimension reduction for supervised learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1109.0455v1.pdf,2011
+1109.0895v1,"Nonlinear Channel Estimation for OFDM System by Complex LS-SVM under
+  High Mobility Conditions",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1109.0895v1.pdf,2011
+1109.1990v1,Trace Lasso: a trace norm regularization for correlated designs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1109.1990v1.pdf,2011
+1109.2397v2,Structured sparsity through convex optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1109.2397v2.pdf,2011
+1109.3248v1,Reconstruction of sequential data with density models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1109.3248v1.pdf,2011
+1109.5311v1,Bias Plus Variance Decomposition for Survival Analysis Problems,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1109.5311v1.pdf,2011
+1109.5894v1,Learning Item Trees for Probabilistic Modelling of Implicit Feedback,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1109.5894v1.pdf,2011
+1110.0413v1,Group Lasso with Overlaps: the Latent Group Lasso approach,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1110.0413v1.pdf,2011
+1110.3076v1,"Efficient Latent Variable Graphical Model Selection via Split Bregman
+  Method",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1110.3076v1.pdf,2011
+1110.4198v3,A Reliable Effective Terascale Linear Learning System,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1110.4198v3.pdf,2011
+1110.4322v3,An Optimal Algorithm for Linear Bandits,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1110.4322v3.pdf,2011
+1110.4713v1,Kernel Topic Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1110.4713v1.pdf,2011
+1111.0352v2,Revisiting k-means: New Algorithms via Bayesian Nonparametrics,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1111.0352v2.pdf,2011
+1111.5479v2,The Graphical Lasso: New Insights and Alternatives,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1111.5479v2.pdf,2011
+1111.6201v4,Learning a Factor Model via Regularized PCA,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1111.6201v4.pdf,2011
+1111.6473v1,A kernel-based framework for learning graded relations from data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1111.6473v1.pdf,2011
+1111.6925v1,"Structure Learning of Probabilistic Graphical Models: A Comprehensive
+  Survey",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1111.6925v1.pdf,2011
+1112.1556v3,Active Learning of Halfspaces under a Margin Assumption,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1112.1556v3.pdf,2011
+1112.2738v1,Robust Learning via Cause-Effect Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1112.2738v1.pdf,2011
+1112.4394v1,Additive Gaussian Processes,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1112.4394v1.pdf,2011
+1112.4607v1,Alignment Based Kernel Learning with a Continuous Set of Base Kernels,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1112.4607v1.pdf,2011
+1112.5404v1,Similarity-based Learning via Data Driven Embeddings,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1112.5404v1.pdf,2011
+1112.5627v1,Minimax Rates for Homology Inference,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1112.5627v1.pdf,2011
+1112.5745v1,Bayesian Active Learning for Classification and Preference Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1112.5745v1.pdf,2011
+1201.0610v1,"Random Forests for Metric Learning with Implicit Pairwise Position
+  Dependence",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1201.0610v1.pdf,2012
+1201.0959v1,"Constrained variable clustering and the best basis problem in functional
+  data analysis",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1201.0959v1.pdf,2012
+1201.0963v1,Clustering Dynamic Web Usage Data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1201.0963v1.pdf,2012
+1201.1450v1,"The Interaction of Entropy-Based Discretization and Sample Size: An
+  Empirical Study",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1201.1450v1.pdf,2012
+1201.2555v2,Sparse Reward Processes,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1201.2555v2.pdf,2012
+1201.3382v2,Spike-and-Slab Sparse Coding for Unsupervised Feature Discovery,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1201.3382v2.pdf,2012
+1201.4714v1,A metric learning perspective of SVM: on the relation of SVM and LMNN,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1201.4714v1.pdf,2012
+1201.5338v2,On Constrained Spectral Clustering and Its Applications,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1201.5338v2.pdf,2012
+1202.0302v3,Kernels on Sample Sets via Nonparametric Divergence Estimates,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.0302v3.pdf,2012
+1202.0855v1,"A Reconstruction Error Formulation for Semi-Supervised Multi-task and
+  Multi-view Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.0855v1.pdf,2012
+1202.1119v2,Cramer Rao-Type Bounds for Sparse Bayesian Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.1119v2.pdf,2012
+1202.1121v2,"rFerns: An Implementation of the Random Ferns Method for General-Purpose
+  Machine Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.1121v2.pdf,2012
+1202.1523v1,Information Forests,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.1523v1.pdf,2012
+1202.3079v1,"Towards minimax policies for online linear optimization with bandit
+  feedback",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3079v1.pdf,2012
+1202.3323v2,Mirror Descent Meets Fixed Share (and feels no regret),/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3323v2.pdf,2012
+1202.3702v1,Semi-supervised Learning with Density Based Distances,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3702v1.pdf,2012
+1202.3704v1,Near-Optimal Target Learning With Stochastic Binary Signals,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3704v1.pdf,2012
+1202.3708v1,"Smoothing Proximal Gradient Method for General Structured Sparse
+  Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3708v1.pdf,2012
+1202.3712v1,Ensembles of Kernel Predictors,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3712v1.pdf,2012
+1202.3714v1,Active Learning for Developing Personalized Treatment,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3714v1.pdf,2012
+1202.3716v1,Boosting as a Product of Experts,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3716v1.pdf,2012
+1202.3717v1,PAC-Bayesian Policy Evaluation for Reinforcement Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3717v1.pdf,2012
+1202.3725v1,Generalized Fisher Score for Feature Selection,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3725v1.pdf,2012
+1202.3726v1,Active Semi-Supervised Learning using Submodular Functions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3726v1.pdf,2012
+1202.3727v1,"Bregman divergence as general framework to estimate unnormalized
+  statistical models",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3727v1.pdf,2012
+1202.3730v1,Sequential Inference for Latent Force Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3730v1.pdf,2012
+1202.3731v1,What Cannot be Learned with Bethe Approximations,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3731v1.pdf,2012
+1202.3733v1,Lipschitz Parametrization of Probabilistic Graphical Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3733v1.pdf,2012
+1202.3735v1,Noisy-OR Models with Latent Confounding,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3735v1.pdf,2012
+1202.3736v1,Discovering causal structures in binary exclusive-or skew acyclic models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3736v1.pdf,2012
+1202.3737v1,Detecting low-complexity unobserved causes,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3737v1.pdf,2012
+1202.3746v1,"Asymptotic Efficiency of Deterministic Estimators for Discrete
+  Energy-Based Models: Ratio Matching and Pseudolikelihood",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3746v1.pdf,2012
+1202.3747v1,Reconstructing Pompeian Households,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3747v1.pdf,2012
+1202.3748v1,"Conditional Restricted Boltzmann Machines for Structured Output
+  Prediction",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3748v1.pdf,2012
+1202.3750v1,Fractional Moments on Bandit Problems,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3750v1.pdf,2012
+1202.3753v1,Partial Order MCMC for Structure Discovery in Bayesian Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3753v1.pdf,2012
+1202.3757v1,Identifiability of Causal Graphs using Functional Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3757v1.pdf,2012
+1202.3758v1,"Nonparametric Divergence Estimation with Applications to Machine
+  Learning on Distributions",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3758v1.pdf,2012
+1202.3761v1,"New Probabilistic Bounds on Eigenvalues and Eigenvectors of Random
+  Kernel Matrices",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3761v1.pdf,2012
+1202.3763v1,"An Efficient Algorithm for Computing Interventional Distributions in
+  Latent Variable Causal Models",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3763v1.pdf,2012
+1202.3766v1,Robust learning Bayesian networks for prior belief,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3766v1.pdf,2012
+1202.3769v1,Sparse matrix-variate Gaussian process blockmodels for network modeling,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3769v1.pdf,2012
+1202.3770v1,Hierarchical Maximum Margin Learning for Multi-Class Classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3770v1.pdf,2012
+1202.3771v1,Tightening MRF Relaxations with Planar Subproblems,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3771v1.pdf,2012
+1202.3774v1,Risk Bounds for Infinitely Divisible Distribution,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3774v1.pdf,2012
+1202.3775v1,"Kernel-based Conditional Independence Test and Application in Causal
+  Discovery",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3775v1.pdf,2012
+1202.3776v1,Smoothing Multivariate Performance Measures,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3776v1.pdf,2012
+1202.3778v1,Sparse Topical Coding,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3778v1.pdf,2012
+1202.3779v1,"Testing whether linear equations are causal: A free probability theory
+  approach",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.3779v1.pdf,2012
+1202.4050v2,On the Sample Complexity of Predictive Sparse Coding,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.4050v2.pdf,2012
+1202.5514v2,"Classification approach based on association rules mining for unbalanced
+  data",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.5514v2.pdf,2012
+1202.5598v4,Clustering using Max-norm Constrained Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.5598v4.pdf,2012
+1202.5695v2,Training Restricted Boltzmann Machines on Word Observations,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.5695v2.pdf,2012
+1202.6001v2,"Efficiently Sampling Multiplicative Attribute Graphs Using a
+  Ball-Dropping Process",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.6001v2.pdf,2012
+1202.6078v1,Protocols for Learning Classifiers on Distributed Data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.6078v1.pdf,2012
+1202.6228v6,"PAC-Bayesian Generalization Bound on Confusion Matrix for Multi-Class
+  Classification",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.6228v6.pdf,2012
+1202.6504v2,Learning from Distributions via Support Measure Machines,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1202.6504v2.pdf,2012
+1203.0038v1,"Inference in Hidden Markov Models with Explicit State Duration
+  Distributions",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.0038v1.pdf,2012
+1203.0203v1,"Fast Reinforcement Learning with Large Action Sets using
+  Error-Correcting Output Codes for MDP Factorization",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.0203v1.pdf,2012
+1203.0683v3,A Method of Moments for Mixture Models and Hidden Markov Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.0683v3.pdf,2012
+1203.1596v2,Multiple Operator-valued Kernel Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.1596v2.pdf,2012
+1203.2177v1,Regret Bounds for Deterministic Gaussian Process Bandits,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.2177v1.pdf,2012
+1203.2570v1,Differential Privacy for Functions and Functional Data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.2570v1.pdf,2012
+1203.3461v1,Robust Metric Learning by Smooth Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3461v1.pdf,2012
+1203.3462v1,Gaussian Process Topic Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3462v1.pdf,2012
+1203.3468v1,Bayesian Rose Trees,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3468v1.pdf,2012
+1203.3472v1,Super-Samples from Kernel Herding,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3472v1.pdf,2012
+1203.3475v1,Inferring deterministic causal relations,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3475v1.pdf,2012
+1203.3476v1,Inference-less Density Estimation using Copula Bayesian Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3476v1.pdf,2012
+1203.3483v1,Regularized Maximum Likelihood for Intrinsic Dimension Estimation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3483v1.pdf,2012
+1203.3485v1,The Hierarchical Dirichlet Process Hidden Semi-Markov Model,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3485v1.pdf,2012
+1203.3486v1,"Combining Spatial and Telemetric Features for Learning Animal Movement
+  Models",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3486v1.pdf,2012
+1203.3489v1,Bayesian exponential family projections for coupled data sources,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3489v1.pdf,2012
+1203.3491v1,Robust LogitBoost and Adaptive Base Class (ABC) LogitBoost,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3491v1.pdf,2012
+1203.3492v1,Approximating Higher-Order Distances Using Random Projections,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3492v1.pdf,2012
+1203.3494v1,Negative Tree Reweighted Belief Propagation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3494v1.pdf,2012
+1203.3495v1,Parameter-Free Spectral Kernel Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3495v1.pdf,2012
+1203.3496v1,Dirichlet Process Mixtures of Generalized Mallows Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3496v1.pdf,2012
+1203.3497v1,Parametric Return Density Estimation for Reinforcement Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3497v1.pdf,2012
+1203.3506v1,"A Family of Computationally Efficient and Simple Estimators for
+  Unnormalized Statistical Models",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3506v1.pdf,2012
+1203.3507v1,Sparse-posterior Gaussian Processes for general likelihoods,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3507v1.pdf,2012
+1203.3517v1,A Bayesian Matrix Factorization Model for Relational Data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3517v1.pdf,2012
+1203.3521v1,Learning networks determined by the ratio of prior and data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3521v1.pdf,2012
+1203.3522v1,Online Semi-Supervised Learning on Quantized Graphs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3522v1.pdf,2012
+1203.3524v1,Speeding up the binary Gaussian process classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3524v1.pdf,2012
+1203.3532v1,"Learning Structural Changes of Gaussian Graphical Models in Controlled
+  Experiments",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3532v1.pdf,2012
+1203.3533v1,Source Separation and Higher-Order Causal Analysis of MEG and EEG,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3533v1.pdf,2012
+1203.3534v1,"Invariant Gaussian Process Latent Variable Models and Application in
+  Causal Discovery",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.3534v1.pdf,2012
+1203.4422v1,"Semi-Supervised Single- and Multi-Domain Regression with Multi-Domain
+  Training",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.4422v1.pdf,2012
+1203.4597v1,"A Novel Training Algorithm for HMMs with Partial and Noisy Access to the
+  States",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.4597v1.pdf,2012
+1203.5181v1,$k$-MLE: A fast algorithm for learning statistical mixture models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.5181v1.pdf,2012
+1203.5438v1,"A Regularization Approach for Prediction of Edges and Node Features in
+  Dynamic Graphs",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.5438v1.pdf,2012
+1203.6130v1,Spectral dimensionality reduction for HMMs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1203.6130v1.pdf,2012
+1204.0047v2,A Lipschitz Exploration-Exploitation Scheme for Bayesian Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.0047v2.pdf,2012
+1204.1276v4,Distribution-Dependent Sample Complexity of Large Margin Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.1276v4.pdf,2012
+1204.1624v1,UCB Algorithm for Exponential Distributions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.1624v1.pdf,2012
+1204.2069v4,"Asymptotic Accuracy of Distribution-Based Estimation for Latent
+  Variables",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.2069v4.pdf,2012
+1204.3523v1,Efficient Protocols for Distributed Classification and Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.3523v1.pdf,2012
+1204.4710v2,Regret in Online Combinatorial Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.4710v2.pdf,2012
+1204.5043v2,Sparse Prediction with the $k$-Support Norm,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.5043v2.pdf,2012
+1204.5721v2,"Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit
+  Problems",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.5721v2.pdf,2012
+1204.6509v1,Dissimilarity Clustering by Hierarchical Multi-Level Refinement,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.6509v1.pdf,2012
+1204.6583v1,"A Conjugate Property between Loss Functions and Uncertainty Sets in
+  Classification Problems",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.6583v1.pdf,2012
+1204.6703v4,A Spectral Algorithm for Latent Dirichlet Allocation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1204.6703v4.pdf,2012
+1205.0288v2,"A Randomized Mirror Descent Algorithm for Large Scale Multiple Kernel
+  Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.0288v2.pdf,2012
+1205.1053v1,Variable Selection for Latent Dirichlet Allocation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.1053v1.pdf,2012
+1205.1240v1,Convex Relaxation for Combinatorial Penalties,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.1240v1.pdf,2012
+1205.1496v2,Graph-based Learning with Unbalanced Clusters,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.1496v2.pdf,2012
+1205.1782v2,"Approximate Dynamic Programming By Minimizing Distributionally Robust
+  Bounds",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.1782v2.pdf,2012
+1205.1828v1,"The Natural Gradient by Analogy to Signal Whitening, and Recipes and
+  Tricks for its Use",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.1828v1.pdf,2012
+1205.2171v2,A Generalized Kernel Approach to Structured Output Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2171v2.pdf,2012
+1205.2599v1,On the Identifiability of the Post-Nonlinear Causal Model,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2599v1.pdf,2012
+1205.2604v1,The Infinite Latent Events Model,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2604v1.pdf,2012
+1205.2605v1,Herding Dynamic Weights for Partially Observed Random Field Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2605v1.pdf,2012
+1205.2608v1,"Temporal-Difference Networks for Dynamical Systems with Continuous
+  Observations and Actions",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2608v1.pdf,2012
+1205.2609v1,Which Spatial Partition Trees are Adaptive to Intrinsic Dimension?,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2609v1.pdf,2012
+1205.2612v1,"Computing Posterior Probabilities of Structural Features in Bayesian
+  Networks",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2612v1.pdf,2012
+1205.2614v1,Products of Hidden Markov Models: It Takes N>1 to Tango,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2614v1.pdf,2012
+1205.2623v1,Virtual Vector Machine for Bayesian Online Classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2623v1.pdf,2012
+1205.2626v1,Group Sparse Priors for Covariance Estimation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2626v1.pdf,2012
+1205.2627v1,Domain Knowledge Uncertainty and Probabilistic Parameter Constraints,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2627v1.pdf,2012
+1205.2628v1,Multiple Source Adaptation and the Renyi Divergence,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2628v1.pdf,2012
+1205.2629v1,Interpretation and Generalization of Score Matching,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2629v1.pdf,2012
+1205.2640v1,Identifying confounders using additive noise models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2640v1.pdf,2012
+1205.2650v1,Correlated Non-Parametric Latent Feature Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2650v1.pdf,2012
+1205.2653v1,L2 Regularization for Learning Kernels,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2653v1.pdf,2012
+1205.2658v1,Optimization of Structured Mean Field Objectives,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2658v1.pdf,2012
+1205.2660v1,Alternating Projections for Learning with Expectation Constraints,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2660v1.pdf,2012
+1205.2662v1,On Smoothing and Inference for Topic Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.2662v1.pdf,2012
+1205.3181v1,Multiple Identifications in Multi-Armed Bandits,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.3181v1.pdf,2012
+1205.4217v2,Thompson Sampling: An Asymptotically Optimal Finite Time Analysis,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.4217v2.pdf,2012
+1205.4343v2,New Analysis and Algorithm for Learning with Drifting Distributions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.4343v2.pdf,2012
+1205.4656v2,Conditional mean embeddings as regressors - supplementary,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.4656v2.pdf,2012
+1205.5075v2,Efficient Sparse Group Feature Selection via Nonconvex Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.5075v2.pdf,2012
+1205.5819v2,"Measurability Aspects of the Compactness Theorem for Sample Compression
+  Schemes",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.5819v2.pdf,2012
+1205.6210v2,Learning Dictionaries with Bounded Self-Coherence,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1205.6210v2.pdf,2012
+1206.0333v1,Sparse Trace Norm Regularization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.0333v1.pdf,2012
+1206.1088v2,"Bayesian Structure Learning for Markov Random Fields with a Spike and
+  Slab Prior",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.1088v2.pdf,2012
+1206.1106v2,No More Pesky Learning Rates,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.1106v2.pdf,2012
+1206.1402v1,A New Greedy Algorithm for Multiple Sparse Regression,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.1402v1.pdf,2012
+1206.1529v5,Sparse projections onto the simplex,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.1529v5.pdf,2012
+1206.2248v6,Fast Cross-Validation via Sequential Testing,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.2248v6.pdf,2012
+1206.2944v2,Practical Bayesian Optimization of Machine Learning Algorithms,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.2944v2.pdf,2012
+1206.3072v1,"Statistical Consistency of Finite-dimensional Unregularized Linear
+  Classification",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3072v1.pdf,2012
+1206.3137v1,Identifiability and Unmixing of Latent Parse Trees,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3137v1.pdf,2012
+1206.3231v1,CORL: A Continuous-state Offset-dynamics Reinforcement Learner,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3231v1.pdf,2012
+1206.3238v1,"Greedy Block Coordinate Descent for Large Scale Gaussian Process
+  Regression",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3238v1.pdf,2012
+1206.3241v1,"Approximating the Partition Function by Deleting and then Correcting for
+  Model Edges",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3241v1.pdf,2012
+1206.3242v1,Multi-View Learning in the Presence of View Disagreement,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3242v1.pdf,2012
+1206.3243v1,Bounds on the Bethe Free Energy for Gaussian Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3243v1.pdf,2012
+1206.3247v1,Learning Convex Inference of Marginals,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3247v1.pdf,2012
+1206.3249v1,Projected Subgradient Methods for Learning Sparse Gaussians,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3249v1.pdf,2012
+1206.3252v1,Convex Point Estimation using Undirected Bayesian Transfer Hierarchies,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3252v1.pdf,2012
+1206.3256v1,Multi-View Learning over Structured and Non-Identical Outputs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3256v1.pdf,2012
+1206.3257v1,Constrained Approximate Maximum Entropy Learning of Markov Random Fields,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3257v1.pdf,2012
+1206.3259v1,"Cumulative distribution networks and the derivative-sum-product
+  algorithm",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3259v1.pdf,2012
+1206.3262v1,"Convergent Message-Passing Algorithms for Inference over General Graphs
+  with Convex Free Energies",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3262v1.pdf,2012
+1206.3269v1,Bayesian Out-Trees,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3269v1.pdf,2012
+1206.3270v1,Estimation and Clustering with Infinite Rankings,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3270v1.pdf,2012
+1206.3274v1,"Small Sample Inference for Generalization Error in Classification Using
+  the CUD Bound",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3274v1.pdf,2012
+1206.3279v1,"The Phylogenetic Indian Buffet Process: A Non-Exchangeable Nonparametric
+  Prior for Latent Features",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3279v1.pdf,2012
+1206.3290v1,Modelling local and global phenomena with sparse Gaussian processes,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3290v1.pdf,2012
+1206.3294v1,Flexible Priors for Exemplar-based Clustering,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3294v1.pdf,2012
+1206.3297v1,Hybrid Variational/Gibbs Collapsed Inference in Topic Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3297v1.pdf,2012
+1206.3721v1,Constraint-free Graphical Model with Fast Learning Algorithm,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3721v1.pdf,2012
+1206.3881v1,DANCo: Dimensionality from Angle and Norm Concentration,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.3881v1.pdf,2012
+1206.4560v1,"Residual Component Analysis: Generalising PCA for more flexible
+  inference in linear-Gaussian models",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4560v1.pdf,2012
+1206.4599v1,A Unified Robust Classification Model,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4599v1.pdf,2012
+1206.4600v1,"Bayesian Nonexhaustive Learning for Online Discovery and Modeling of
+  Emerging Classes",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4600v1.pdf,2012
+1206.4601v1,Convex Multitask Learning with Flexible Task Clusters,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4601v1.pdf,2012
+1206.4607v1,Distributed Tree Kernels,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4607v1.pdf,2012
+1206.4611v1,"A Convex Feature Learning Formulation for Latent Task Structure
+  Discovery",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4611v1.pdf,2012
+1206.4614v1,"Information-theoretic Semi-supervised Metric Learning via Entropy
+  Regularization",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4614v1.pdf,2012
+1206.4618v1,Compact Hyperplane Hashing with Bilinear Functions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4618v1.pdf,2012
+1206.4620v1,Improved Information Gain Estimates for Decision Tree Induction,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4620v1.pdf,2012
+1206.4623v1,On the Size of the Online Kernel Sparsification Dictionary,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4623v1.pdf,2012
+1206.4624v1,Robust Multiple Manifolds Structure Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4624v1.pdf,2012
+1206.4627v1,"Convergence Rates of Biased Stochastic Optimization for Learning Sparse
+  Ising Models",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4627v1.pdf,2012
+1206.4628v1,Robust PCA in High-dimension: A Deterministic Approach,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4628v1.pdf,2012
+1206.4633v1,"Fast Bounded Online Gradient Descent Algorithms for Scalable
+  Kernel-Based Online Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4633v1.pdf,2012
+1206.4635v1,Deep Mixtures of Factor Analysers,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4635v1.pdf,2012
+1206.4638v1,Efficient Euclidean Projections onto the Intersection of Norm Balls,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4638v1.pdf,2012
+1206.4644v1,Groupwise Constrained Reconstruction for Subspace Clustering,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4644v1.pdf,2012
+1206.4646v1,Partial-Hessian Strategies for Fast Learning of Nonlinear Embeddings,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4646v1.pdf,2012
+1206.4650v1,Analysis of Kernel Mean Matching under Covariate Shift,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4650v1.pdf,2012
+1206.4658v1,"Dirichlet Process with Mixed Random Measures: A Nonparametric Topic
+  Model for Labeled Data",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4658v1.pdf,2012
+1206.4659v1,Max-Margin Nonparametric Latent Feature Models for Link Prediction,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4659v1.pdf,2012
+1206.4661v1,Predicting accurate probabilities with a ranking loss,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4661v1.pdf,2012
+1206.4663v1,The Convexity and Design of Composite Multiclass Losses,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4663v1.pdf,2012
+1206.4664v1,"Tighter Variational Representations of f-Divergences via Restriction to
+  Probability Measures",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4664v1.pdf,2012
+1206.4665v1,Nonparametric variational inference,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4665v1.pdf,2012
+1206.4669v1,Sparse Additive Functional and Kernel CCA,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4669v1.pdf,2012
+1206.4671v1,"Dependent Hierarchical Normalized Random Measures for Dynamic Topic
+  Modeling",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4671v1.pdf,2012
+1206.4672v1,Efficient Active Algorithms for Hierarchical Clustering,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4672v1.pdf,2012
+1206.4673v1,Group Sparse Additive Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4673v1.pdf,2012
+1206.4677v1,"Semi-Supervised Learning of Class Balance under Class-Prior Change by
+  Distribution Matching",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4677v1.pdf,2012
+1206.4678v1,Linear Regression with Limited Observation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4678v1.pdf,2012
+1206.4679v1,Factorized Asymptotic Bayesian Hidden Markov Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4679v1.pdf,2012
+1206.4681v1,LPQP for MAP: Putting LP Solvers to Better Use,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4681v1.pdf,2012
+1206.4686v1,Discriminative Probabilistic Prototype Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.4686v1.pdf,2012
+1206.5036v2,Estimating Densities with Non-Parametric Exponential Families,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5036v2.pdf,2012
+1206.5162v2,Fast Variational Inference in the Conjugate Exponential Family,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5162v2.pdf,2012
+1206.5240v1,Analysis of Semi-Supervised Learning with the Yarowsky Algorithm,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5240v1.pdf,2012
+1206.5241v1,Shift-Invariance Sparse Coding for Audio Classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5241v1.pdf,2012
+1206.5243v1,Convergent Propagation Algorithms via Oriented Trees,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5243v1.pdf,2012
+1206.5247v1,Bayesian structure learning using dynamic programming and MCMC,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5247v1.pdf,2012
+1206.5264v1,"Apprenticeship Learning using Inverse Reinforcement Learning and
+  Gradient Methods",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5264v1.pdf,2012
+1206.5274v1,"On Discarding, Caching, and Recalling Samples in Active Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5274v1.pdf,2012
+1206.5281v1,"Learning Selectively Conditioned Forest Structures with Applications to
+  DBNs and Classification",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5281v1.pdf,2012
+1206.5283v1,Bayesian Active Distance Metric Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5283v1.pdf,2012
+1206.5293v1,"On Sensitivity of the MAP Bayesian Network Structure to the Equivalent
+  Sample Size Parameter",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5293v1.pdf,2012
+1206.5580v2,A Geometric Algorithm for Scalable Multiple Kernel Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5580v2.pdf,2012
+1206.5766v4,"Learning mixtures of spherical Gaussians: moment methods and spectral
+  decompositions",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.5766v4.pdf,2012
+1206.6015v1,Transductive Classification Methods for Mixed Graphs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6015v1.pdf,2012
+1206.6030v1,An Additive Model View to Sparse Gaussian Process Classifier Design,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6030v1.pdf,2012
+1206.6038v1,Predictive Approaches For Gaussian Process Classifier Model Selection,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6038v1.pdf,2012
+1206.6361v1,Learning Markov Network Structure using Brownian Distance Covariance,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6361v1.pdf,2012
+1206.6381v2,Shortest path distance in random k-nearest neighbor graphs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6381v2.pdf,2012
+1206.6382v1,"High-Dimensional Covariance Decomposition into Sparse Markov and
+  Independence Domains",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6382v1.pdf,2012
+1206.6383v1,Feature Selection via Probabilistic Outputs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6383v1.pdf,2012
+1206.6384v1,"Efficient and Practical Stochastic Subgradient Descent for Nuclear Norm
+  Regularization",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6384v1.pdf,2012
+1206.6387v1,Fast classification using sparse decision DAGs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6387v1.pdf,2012
+1206.6393v1,"Local Loss Optimization in Operator Models: A New Insight into Spectral
+  Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6393v1.pdf,2012
+1206.6396v1,"Joint Optimization and Variable Selection of High-dimensional Gaussian
+  Processes",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6396v1.pdf,2012
+1206.6397v1,Communications Inspired Linear Discriminant Analysis,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6397v1.pdf,2012
+1206.6398v2,Learning Parameterized Skills,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6398v2.pdf,2012
+1206.6400v1,"Online Bandit Learning against an Adaptive Adversary: from Regret to
+  Policy Regret",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6400v1.pdf,2012
+1206.6401v1,Consistent Multilabel Ranking through Univariate Losses,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6401v1.pdf,2012
+1206.6402v1,"Parallelizing Exploration-Exploitation Tradeoffs with Gaussian Process
+  Bandit Optimization",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6402v1.pdf,2012
+1206.6406v1,Bayesian Optimal Active Search and Surveying,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6406v1.pdf,2012
+1206.6407v1,Large-Scale Feature Learning With Spike-and-Slab Sparse Coding,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6407v1.pdf,2012
+1206.6410v1,On the Partition Function and Random Maximum A-Posteriori Perturbations,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6410v1.pdf,2012
+1206.6412v1,"A Simple Algorithm for Semi-supervised Learning with Improved
+  Generalization Error Bound",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6412v1.pdf,2012
+1206.6413v1,A Convex Relaxation for Weakly Supervised Classifiers,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6413v1.pdf,2012
+1206.6415v1,The Big Data Bootstrap,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6415v1.pdf,2012
+1206.6416v1,An Infinite Latent Attribute Model for Network Data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6416v1.pdf,2012
+1206.6417v1,Learning Task Grouping and Overlap in Multi-task Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6417v1.pdf,2012
+1206.6419v1,Cross-Domain Multitask Learning with Latent Probit Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6419v1.pdf,2012
+1206.6421v1,Structured Learning from Partial Annotations,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6421v1.pdf,2012
+1206.6422v1,An Online Boosting Algorithm with Theoretical Justifications,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6422v1.pdf,2012
+1206.6425v1,Sparse Stochastic Inference for Latent Dirichlet allocation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6425v1.pdf,2012
+1206.6427v1,"Convergence of the EM Algorithm for Gaussian Mixtures with Unbalanced
+  Mixing Coefficients",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6427v1.pdf,2012
+1206.6428v1,A Binary Classification Framework for Two-Stage Multiple Kernel Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6428v1.pdf,2012
+1206.6431v1,Exact Maximum Margin Structure Learning of Bayesian Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6431v1.pdf,2012
+1206.6434v1,A Generative Process for Sampling Contractive Auto-Encoders,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6434v1.pdf,2012
+1206.6435v1,Rethinking Collapsed Variational Bayes Inference for LDA,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6435v1.pdf,2012
+1206.6436v1,"Efficient Structured Prediction with Latent Variables for General
+  Graphical Models",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6436v1.pdf,2012
+1206.6438v1,"Information-Theoretical Learning of Discriminative Clusters for
+  Unsupervised Domain Adaptation",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6438v1.pdf,2012
+1206.6440v1,Predicting Preference Flips in Commerce Search,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6440v1.pdf,2012
+1206.6442v1,"Minimizing The Misclassification Error Rate Using a Surrogate Convex
+  Loss",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6442v1.pdf,2012
+1206.6444v1,"Statistical Linear Estimation with Penalized Estimators: an Application
+  to Reinforcement Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6444v1.pdf,2012
+1206.6446v1,Agglomerative Bregman Clustering,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6446v1.pdf,2012
+1206.6448v1,Online Alternating Direction Method,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6448v1.pdf,2012
+1206.6449v1,Monte Carlo Bayesian Reinforcement Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6449v1.pdf,2012
+1206.6450v1,Conditional Sparse Coding and Grouped Multivariate Regression,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6450v1.pdf,2012
+1206.6451v1,The Greedy Miser: Learning under Test-time Budgets,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6451v1.pdf,2012
+1206.6453v1,Adaptive Canonical Correlation Analysis Based On Matrix Manifolds,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6453v1.pdf,2012
+1206.6454v1,Hierarchical Exploration for Accelerating Contextual Bandits,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6454v1.pdf,2012
+1206.6455v1,"Regularizers versus Losses for Nonlinear Dimensionality Reduction: A
+  Factored View with New Convex Relaxations",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6455v1.pdf,2012
+1206.6457v1,"Exponential Regret Bounds for Gaussian Process Bandits with
+  Deterministic Observations",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6457v1.pdf,2012
+1206.6458v1,Batch Active Learning via Coordinated Matching,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6458v1.pdf,2012
+1206.6461v1,"On the Sample Complexity of Reinforcement Learning with a Generative
+  Model",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6461v1.pdf,2012
+1206.6463v1,An Iterative Locally Linear Embedding Algorithm,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6463v1.pdf,2012
+1206.6464v2,Estimating the Hessian by Back-propagating Curvature,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6464v2.pdf,2012
+1206.6465v1,Bayesian Efficient Multiple Kernel Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6465v1.pdf,2012
+1206.6467v1,"Semi-Supervised Collective Classification via Hybrid Label
+  Regularization",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6467v1.pdf,2012
+1206.6469v1,"Inferring Latent Structure From Mixed Real and Categorical Relational
+  Data",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6469v1.pdf,2012
+1206.6471v1,On Causal and Anticausal Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6471v1.pdf,2012
+1206.6472v1,An Efficient Approach to Sparse Linear Discriminant Analysis,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6472v1.pdf,2012
+1206.6475v2,A Split-Merge Framework for Comparing Clusterings,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6475v2.pdf,2012
+1206.6477v1,Discovering Support and Affiliated Features from Very High Dimensions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6477v1.pdf,2012
+1206.6478v1,Maximum Margin Output Coding,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6478v1.pdf,2012
+1206.6479v1,The Landmark Selection Method for Multiple Output Prediction,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6479v1.pdf,2012
+1206.6480v1,A Dantzig Selector Approach to Temporal Difference Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6480v1.pdf,2012
+1206.6483v1,Subgraph Matching Kernels for Attributed Graphs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6483v1.pdf,2012
+1206.6485v1,Greedy Algorithms for Sparse Reinforcement Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6485v1.pdf,2012
+1206.6486v1,Flexible Modeling of Latent Task Structures in Multitask Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6486v1.pdf,2012
+1206.6813v1,A concentration theorem for projections,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6813v1.pdf,2012
+1206.6815v1,Discriminative Learning via Semidefinite Probabilistic Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6815v1.pdf,2012
+1206.6832v1,"Convex Structure Learning for Bayesian Networks: Polynomial Feature
+  Selection and Approximate Ordering",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6832v1.pdf,2012
+1206.6860v1,Predicting Conditional Quantiles via Reduction to Classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6860v1.pdf,2012
+1206.6863v1,Bayesian Multicategory Support Vector Machines,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6863v1.pdf,2012
+1206.6868v1,Bayesian Random Fields: The Bethe-Laplace Approximation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6868v1.pdf,2012
+1206.6871v1,Ranking by Dependence - A Fair Criteria,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6871v1.pdf,2012
+1206.6873v1,"Variable noise and dimensionality reduction for sparse Gaussian
+  processes",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1206.6873v1.pdf,2012
+1207.0057v1,"Implicit Density Estimation by Local Moment Matching to Sample from
+  Auto-Encoders",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.0057v1.pdf,2012
+1207.0099v1,Density-Difference Estimation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.0099v1.pdf,2012
+1207.0268v1,Surrogate Regret Bounds for Bipartite Ranking via Strongly Proper Losses,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.0268v1.pdf,2012
+1207.0577v2,Robust Dequantized Compressive Sensing,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.0577v2.pdf,2012
+1207.1358v1,Unsupervised spectral learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.1358v1.pdf,2012
+1207.1364v1,Learning from Sparse Data by Exploiting Monotonicity Constraints,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.1364v1.pdf,2012
+1207.1366v1,Learning Factor Graphs in Polynomial Time & Sample Complexity,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.1366v1.pdf,2012
+1207.1379v1,"On the Detection of Concept Changes in Time-Varying Data Stream by
+  Testing Exchangeability",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.1379v1.pdf,2012
+1207.1382v1,Maximum Margin Bayesian Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.1382v1.pdf,2012
+1207.1393v1,Learning about individuals from group statistics,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.1393v1.pdf,2012
+1207.1403v1,Obtaining Calibrated Probabilities from Boosting,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.1403v1.pdf,2012
+1207.1409v1,Piecewise Training for Undirected Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.1409v1.pdf,2012
+1207.1417v1,The DLR Hierarchy of Approximate Inference,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.1417v1.pdf,2012
+1207.1421v1,"A Function Approximation Approach to Estimation of Policy Gradient for
+  POMDP with Structured Policies",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.1421v1.pdf,2012
+1207.3012v2,"Optimal rates for first-order stochastic convex optimization under
+  Tsybakov noise condition",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.3012v2.pdf,2012
+1207.3520v1,Improved brain pattern recovery through ranking approaches,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.3520v1.pdf,2012
+1207.3961v3,Ensemble Clustering with Logic Rules,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.3961v3.pdf,2012
+1207.4110v1,The Minimum Information Principle for Discriminative Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4110v1.pdf,2012
+1207.4112v1,Algebraic Statistics in Model Selection,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4112v1.pdf,2012
+1207.4113v1,"On-line Prediction with Kernels and the Complexity Approximation
+  Principle",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4113v1.pdf,2012
+1207.4125v1,Applying Discrete PCA in Data Analysis,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4125v1.pdf,2012
+1207.4131v1,Exponential Families for Conditional Random Fields,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4131v1.pdf,2012
+1207.4133v1,"""Ideal Parent"" Structure Learning for Continuous Variable Networks",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4133v1.pdf,2012
+1207.4134v1,"Bayesian Learning in Undirected Graphical Models: Approximate MCMC
+  algorithms",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4134v1.pdf,2012
+1207.4138v1,Active Model Selection,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4138v1.pdf,2012
+1207.4139v1,"An Extended Cencov-Campbell Characterization of Conditional Information
+  Geometry",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4139v1.pdf,2012
+1207.4142v1,"Conditional Chow-Liu Tree Structures for Modeling Discrete-Valued Vector
+  Time Series",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4142v1.pdf,2012
+1207.4144v1,A Generative Bayesian Model for Aggregating Experts' Probabilities,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4144v1.pdf,2012
+1207.4148v1,Dynamical Systems Trees,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4148v1.pdf,2012
+1207.4155v1,"Similarity-Driven Cluster Merging Method for Unsupervised Fuzzy
+  Clustering",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4155v1.pdf,2012
+1207.4156v1,Graph partition strategies for generalized mean field inference,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4156v1.pdf,2012
+1207.4164v1,Factored Latent Analysis for far-field tracking data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4164v1.pdf,2012
+1207.4172v1,Variational Chernoff Bounds for Graphical Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4172v1.pdf,2012
+1207.4255v2,"On the Statistical Efficiency of $\ell_{1,p}$ Multi-Task Learning of
+  Gaussian Graphical Models",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4255v2.pdf,2012
+1207.4597v1,"Local stability of Belief Propagation algorithm with multiple fixed
+  points",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4597v1.pdf,2012
+1207.4676v2,"Proceedings of the 29th International Conference on Machine Learning
+  (ICML-12)",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4676v2.pdf,2012
+1207.4992v2,Fast nonparametric classification based on data depth,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.4992v2.pdf,2012
+1207.5259v3,"Optimal discovery with probabilistic expert advice: finite time analysis
+  and macroscopic optimality",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.5259v3.pdf,2012
+1207.5437v2,Generalization Bounds for Metric and Similarity Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.5437v2.pdf,2012
+1207.5554v3,"Bellman Error Based Feature Generation using Random Projections on
+  Sparse Spaces",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1207.5554v3.pdf,2012
+1208.0129v1,Oracle inequalities for computationally adaptive model selection,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.0129v1.pdf,2012
+1208.0402v1,Multidimensional Membership Mixture Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.0402v1.pdf,2012
+1208.0645v4,On the Consistency of AUC Pairwise Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.0645v4.pdf,2012
+1208.0806v1,Cross-conformal predictors,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.0806v1.pdf,2012
+1208.0848v2,Learning Theory Approach to Minimum Error Entropy Criterion,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.0848v2.pdf,2012
+1208.2417v1,How to sample if you must: on optimal functional sampling,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.2417v1.pdf,2012
+1208.2523v1,Path Integral Control by Reproducing Kernel Hilbert Space Embedding,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.2523v1.pdf,2012
+1208.3030v2,Asymptotic Generalization Bound of Fisher's Linear Discriminant Analysis,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.3030v2.pdf,2012
+1208.3279v1,Structured Prediction Cascades,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.3279v1.pdf,2012
+1208.3422v2,Distance Metric Learning for Kernel Machines,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.3422v2.pdf,2012
+1208.3728v2,Online Learning with Predictable Sequences,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.3728v2.pdf,2012
+1208.4138v1,Semi-supervised Clustering Ensemble by Voting,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.4138v1.pdf,2012
+1208.5062v3,Changepoint detection for high-dimensional time series with missing data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.5062v3.pdf,2012
+1208.6338v1,A Widely Applicable Bayesian Information Criterion,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1208.6338v1.pdf,2012
+1209.0029v3,"Statistically adaptive learning for a general class of cost functions
+  (SA L-BFGS)",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.0029v3.pdf,2012
+1209.0521v2,Efficient EM Training of Gaussian Mixtures with Missing Data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.0521v2.pdf,2012
+1209.0738v3,Sparse coding for multitask and transfer learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.0738v3.pdf,2012
+1209.1077v1,Learning Probability Measures with respect to Optimal Transport Metrics,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.1077v1.pdf,2012
+1209.1121v4,Learning Manifolds with K-Means and K-Flats,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.1121v4.pdf,2012
+1209.1360v2,Multiclass Learning with Simplex Coding,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.1360v2.pdf,2012
+1209.1450v1,On spatial selectivity and prediction across conditions with fMRI,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.1450v1.pdf,2012
+1209.1688v4,Rank Centrality: Ranking from Pair-wise Comparisons,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.1688v4.pdf,2012
+1209.1727v1,Bandits with heavy tail,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.1727v1.pdf,2012
+1209.2139v2,Fused Multiple Graphical Lasso,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.2139v2.pdf,2012
+1209.2434v1,Query Complexity of Derivative-Free Optimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.2434v1.pdf,2012
+1209.2784v1,"Minimax Multi-Task Learning and a Generalized Loss-Compositional
+  Paradigm for MTL",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.2784v1.pdf,2012
+1209.3761v1,Generalized Canonical Correlation Analysis for Disparate Data Fusion,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.3761v1.pdf,2012
+1209.4825v2,"Efficient Regularized Least-Squares Algorithms for Conditional Ranking
+  on Relational Data",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.4825v2.pdf,2012
+1209.5019v1,A Bayesian Nonparametric Approach to Image Super-resolution,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.5019v1.pdf,2012
+1209.5467v4,"Minimizing inter-subject variability in fNIRS based Brain Computer
+  Interfaces via multiple-kernel support vector learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.5467v4.pdf,2012
+1209.5477v2,Optimal Weighting of Multi-View Data with Low Dimensional Hidden States,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.5477v2.pdf,2012
+1209.5991v1,Subset Selection for Gaussian Markov Random Fields,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.5991v1.pdf,2012
+1209.6342v1,Sparse Ising Models with Covariates,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1209.6342v1.pdf,2012
+1210.0645v5,Nonparametric Unsupervised Classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.0645v5.pdf,2012
+1210.0685v1,"Local stability and robustness of sparse dictionary learning in the
+  presence of noise",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.0685v1.pdf,2012
+1210.0762v1,Graph-Based Approaches to Clustering Network-Constrained Trajectory Data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.0762v1.pdf,2012
+1210.1121v1,"Smooth Sparse Coding via Marginal Regression for Learning Sparse
+  Representations",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.1121v1.pdf,2012
+1210.1190v1,"Fast Conical Hull Algorithms for Near-separable Non-negative Matrix
+  Factorization",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.1190v1.pdf,2012
+1210.1258v1,Unfolding Latent Tree Structures using 4th Order Tensors,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.1258v1.pdf,2012
+1210.1960v1,Feature Selection via L1-Penalized Squared-Loss Mutual Information,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.1960v1.pdf,2012
+1210.2771v3,Cost-Sensitive Tree of Classifiers,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.2771v3.pdf,2012
+1210.4006v1,The Perturbed Variation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4006v1.pdf,2012
+1210.4276v1,"Semi-Supervised Classification Through the Bag-of-Paths Group
+  Betweenness",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4276v1.pdf,2012
+1210.4347v1,Hilbert Space Embedding for Dirichlet Process Mixtures,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4347v1.pdf,2012
+1210.4460v4,"Fast SVM-based Feature Elimination Utilizing Data Radius, Hard-Margin,
+  Soft-Margin",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4460v4.pdf,2012
+1210.4792v2,"Scalable Matrix-valued Kernel Learning for High-dimensional Nonlinear
+  Multivariate Regression and Granger Causality",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4792v2.pdf,2012
+1210.4839v1,Leveraging Side Observations in Stochastic Bandits,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4839v1.pdf,2012
+1210.4846v1,"Variational Dual-Tree Framework for Large-Scale Transition Matrix
+  Approximation",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4846v1.pdf,2012
+1210.4851v1,Learning to Rank With Bregman Divergences and Monotone Retargeting,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4851v1.pdf,2012
+1210.4856v1,Exploiting compositionality to explore a large space of model structures,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4856v1.pdf,2012
+1210.4862v1,Sample-efficient Nonstationary Policy Evaluation for Contextual Bandits,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4862v1.pdf,2012
+1210.4867v1,Lifted Relational Variational Inference,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4867v1.pdf,2012
+1210.4876v1,Active Imitation Learning via Reduction to I.I.D. Active Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4876v1.pdf,2012
+1210.4881v1,"Tightening Fractional Covering Upper Bounds on the Partition Function
+  for High-Order Region Graphs",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4881v1.pdf,2012
+1210.4884v1,A Spectral Algorithm for Latent Junction Trees,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4884v1.pdf,2012
+1210.4892v1,"Unsupervised Joint Alignment and Clustering using Bayesian
+  Nonparametrics",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4892v1.pdf,2012
+1210.4893v1,Sparse Q-learning with Mirror Descent,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4893v1.pdf,2012
+1210.4898v1,"Value Function Approximation in Noisy Environments Using Locally
+  Smoothed Regularized Approximate Linear Programs",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4898v1.pdf,2012
+1210.4899v1,Fast Exact Inference for Recursive Cardinality Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4899v1.pdf,2012
+1210.4905v1,"Latent Composite Likelihood Learning for the Structured Canonical
+  Correlation Model",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4905v1.pdf,2012
+1210.4909v1,Active Learning with Distributional Estimates,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4909v1.pdf,2012
+1210.4917v1,Fast Graph Construction Using Auction Algorithm,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.4917v1.pdf,2012
+1210.5135v1,"LSBN: A Large-Scale Bayesian Structure Learning Framework for Model
+  Averaging",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.5135v1.pdf,2012
+1210.5196v1,Matrix reconstruction with the local max norm,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.5196v1.pdf,2012
+1210.5631v2,Content-boosted Matrix Factorization Techniques for Recommender Systems,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.5631v2.pdf,2012
+1210.5840v1,Supervised Learning with Similarity Functions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.5840v1.pdf,2012
+1210.5873v1,"Initialization of Self-Organizing Maps: Principal Components Versus
+  Random Initialization. A Case Study",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.5873v1.pdf,2012
+1210.6001v3,Reducing statistical time-series problems to binary classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.6001v3.pdf,2012
+1210.6738v4,Nested Hierarchical Dirichlet Processes,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1210.6738v4.pdf,2012
+1211.0025v2,Venn-Abers predictors,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.0025v2.pdf,2012
+1211.0879v1,"Comparing K-Nearest Neighbors and Potential Energy Method in
+  classification problem. A case study using KNN applet by E.M. Mirkes and real
+  life benchmark data sets",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.0879v1.pdf,2012
+1211.0889v3,APPLE: Approximate Path for Penalized Likelihood Estimators,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.0889v3.pdf,2012
+1211.1043v1,Soft (Gaussian CDE) regression models and loss functions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.1043v1.pdf,2012
+1211.2304v1,"Probabilistic Combination of Classifier and Cluster Ensembles for
+  Non-transductive Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.2304v1.pdf,2012
+1211.3295v2,Order-independent constraint-based causal structure learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.3295v2.pdf,2012
+1211.3966v3,Lasso Screening Rules via Dual Polytope Projection,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.3966v3.pdf,2012
+1211.4142v1,Data Clustering via Principal Direction Gap Partitioning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.4142v1.pdf,2012
+1211.4246v5,"What Regularized Auto-Encoders Learn from the Data Generating
+  Distribution",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.4246v5.pdf,2012
+1211.4410v4,Mixture Gaussian Process Conditional Heteroscedasticity,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.4410v4.pdf,2012
+1211.4753v1,A unifying representation for a class of dependent random measures,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.4753v1.pdf,2012
+1211.4798v1,A survey of non-exchangeable priors for Bayesian nonparametric models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.4798v1.pdf,2012
+1211.4888v1,A Traveling Salesman Learns Bayesian Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.4888v1.pdf,2012
+1211.5687v1,"Texture Modeling with Convolutional Spike-and-Slab RBMs and Deep
+  Extensions",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.5687v1.pdf,2012
+1211.6085v5,Random Projections for Linear Support Vector Machines,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.6085v5.pdf,2012
+1211.6158v1,The Interplay Between Stability and Regret in Online Learning,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.6158v1.pdf,2012
+1211.6248v2,A simple non-parametric Topic Mixture for Authors and Documents,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.6248v2.pdf,2012
+1211.6653v1,"Nonparametric Bayesian Mixed-effect Model: a Sparse Gaussian Process
+  Approach",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1211.6653v1.pdf,2012
+1212.0139v1,Cumulative Step-size Adaptation on Linear Functions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.0139v1.pdf,2012
+1212.0975v2,Cost-Sensitive Support Vector Machines,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.0975v2.pdf,2012
+1212.1180v1,On Some Integrated Approaches to Inference,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.1180v1.pdf,2012
+1212.1496v2,Excess risk bounds for multitask learning with trace norm regularization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.1496v2.pdf,2012
+1212.2136v2,"A class of random fields on complete graphs with tractable partition
+  function",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2136v2.pdf,2012
+1212.2340v1,PAC-Bayesian Learning and Domain Adaptation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2340v1.pdf,2012
+1212.2447v1,Bayesian Hierarchical Mixtures of Experts,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2447v1.pdf,2012
+1212.2460v1,The Information Bottleneck EM Algorithm,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2460v1.pdf,2012
+1212.2466v1,On Information Regularization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2466v1.pdf,2012
+1212.2472v1,Budgeted Learning of Naive-Bayes Classifiers,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2472v1.pdf,2012
+1212.2474v1,Learning Riemannian Metrics,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2474v1.pdf,2012
+1212.2483v1,Sufficient Dimensionality Reduction with Irrelevant Statistics,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2483v1.pdf,2012
+1212.2487v1,Locally Weighted Naive Bayes,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2487v1.pdf,2012
+1212.2488v1,A Distance-Based Branch and Bound Feature Selection Algorithm,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2488v1.pdf,2012
+1212.2490v1,On the Convergence of Bound Optimization Algorithms,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2490v1.pdf,2012
+1212.2491v1,"Automated Analytic Asymptotic Evaluation of the Marginal Likelihood for
+  Latent Models",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2491v1.pdf,2012
+1212.2494v1,Learning Generative Models of Similarity Matrices,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2494v1.pdf,2012
+1212.2498v1,Learning Continuous Time Bayesian Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2498v1.pdf,2012
+1212.2504v1,Efficiently Inducing Features of Conditional Random Fields,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2504v1.pdf,2012
+1212.2510v1,Markov Random Walk Representations with Continuous Distributions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2510v1.pdf,2012
+1212.2511v1,Stochastic complexity of Bayesian networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2511v1.pdf,2012
+1212.2512v1,"A Generalized Mean Field Algorithm for Variational Inference in
+  Exponential Families",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2512v1.pdf,2012
+1212.2513v1,Efficient Parametric Projection Pursuit Density Estimation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2513v1.pdf,2012
+1212.2514v1,Boltzmann Machine Learning with the Latent Maximum Entropy Principle,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2514v1.pdf,2012
+1212.2516v1,Learning Measurement Models for Unobserved Variables,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2516v1.pdf,2012
+1212.2686v1,Joint Training of Deep Boltzmann Machines,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.2686v1.pdf,2012
+1212.3276v3,Learning Sparse Low-Threshold Linear Classifiers,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.3276v3.pdf,2012
+1212.3900v2,A Tutorial on Probabilistic Latent Semantic Analysis,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.3900v2.pdf,2012
+1212.4347v1,Bayesian Group Nonnegative Matrix Factorization for EEG Analysis,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.4347v1.pdf,2012
+1212.5637v1,Random Spanning Trees and the Prediction of Weighted Graphs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.5637v1.pdf,2012
+1212.6246v1,"Gaussian Process Regression with Heteroscedastic or Non-Gaussian
+  Residuals",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.6246v1.pdf,2012
+1212.6316v1,On-line relational SOM for dissimilarity data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1212.6316v1.pdf,2012
+1301.0015v1,Bethe Bounds and Approximating the Global Optimum,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0015v1.pdf,2012
+1301.0104v1,"Policy Evaluation with Variance Related Risk Criteria in Markov Decision
+  Processes",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0104v1.pdf,2013
+1301.0142v1,Semi-Supervised Domain Adaptation with Non-Parametric Copulas,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0142v1.pdf,2013
+1301.0534v2,"Follow the Leader If You Can, Hedge If You Must",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0534v2.pdf,2013
+1301.0554v1,Tree-dependent Component Analysis,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0554v1.pdf,2012
+1301.0562v1,Continuation Methods for Mixing Heterogenous Sources,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0562v1.pdf,2012
+1301.0565v1,An Information-Theoretic External Cluster-Validity Measure,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0565v1.pdf,2012
+1301.0578v1,Dimension Correction for Hierarchical Latent Class Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0578v1.pdf,2012
+1301.0579v1,Almost-everywhere algorithmic stability and generalization error,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0579v1.pdf,2012
+1301.0586v1,Staged Mixture Modelling and Boosting,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0586v1.pdf,2012
+1301.0593v1,Bayesian Network Classifiers in a High Dimensional Framework,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0593v1.pdf,2012
+1301.0599v1,Advances in Boosting (Invited Talk),/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0599v1.pdf,2012
+1301.0601v1,Reinforcement Learning with Partially Known World Dynamics,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0601v1.pdf,2012
+1301.0602v1,Unsupervised Active Learning in Large Domains,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0602v1.pdf,2012
+1301.0610v1,A New Class of Upper Bounds on the Log Partition Function,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0610v1.pdf,2012
+1301.0725v1,The Sum-over-Forests density index: identifying dense regions in a graph,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.0725v1.pdf,2013
+1301.1254v1,Dynamical Models and Tracking Regret in Online Convex Programming,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.1254v1.pdf,2013
+1301.1722v1,Linear Bandits in High Dimension and Recommendation Systems,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.1722v1.pdf,2013
+1301.1942v2,Bayesian Optimization in a Billion Dimensions via Random Embeddings,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.1942v2.pdf,2013
+1301.2015v1,Heteroscedastic Relevance Vector Machine,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.2015v1.pdf,2013
+1301.2115v1,Domain Generalization via Invariant Feature Representation,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.2115v1.pdf,2013
+1301.2278v1,"Discovering Multiple Constraints that are Frequently Approximately
+  Satisfied",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.2278v1.pdf,2013
+1301.2284v1,Classifier Learning with Supervised Marginal Likelihood,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.2284v1.pdf,2013
+1301.2286v1,"Iterative Markov Chain Monte Carlo Computation of Reference Priors and
+  Minimax Risk",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.2286v1.pdf,2013
+1301.2316v1,Cross-covariance modelling via DAGs with hidden variables,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.2316v1.pdf,2013
+1301.2655v1,"Functional Regularized Least Squares Classi cation with Operator-valued
+  Kernels",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.2655v1.pdf,2013
+1301.2656v1,"Multiple functional regression with both discrete and continuous
+  covariates",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.2656v1.pdf,2013
+1301.3192v1,Matrix Approximation under Local Low-Rank Assumption,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3192v1.pdf,2013
+1301.3568v3,Joint Training Deep Boltzmann Machines for Classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3568v3.pdf,2013
+1301.3838v1,Variational Relevance Vector Machines,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3838v1.pdf,2013
+1301.3843v1,Bayesian Classification and Feature Selection from Finite Data Sets,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3843v1.pdf,2013
+1301.3849v1,Experiments with Random Projection,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3849v1.pdf,2013
+1301.3850v1,A Two-round Variant of EM for Gaussian Mixtures,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3850v1.pdf,2013
+1301.3851v1,Minimum Message Length Clustering Using Gibbs Sampling,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3851v1.pdf,2013
+1301.3865v1,Feature Selection and Dualities in Maximum Entropy Discrimination,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3865v1.pdf,2013
+1301.3891v1,Combining Feature and Prototype Pruning by Uncertainty Minimization,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3891v1.pdf,2013
+1301.3896v1,An Uncertainty Framework for Classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3896v1.pdf,2013
+1301.3966v1,"Efficient Sample Reuse in Policy Gradients with Parameter-based
+  Exploration",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.3966v1.pdf,2013
+1301.4293v2,Latent Relation Representations for Universal Schemas,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.4293v2.pdf,2013
+1301.5088v1,Piecewise Linear Multilayer Perceptrons and Dropout,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.5088v1.pdf,2013
+1301.5112v1,Active Learning on Trees and Graphs,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.5112v1.pdf,2013
+1301.5220v2,Properties of the Least Squares Temporal Difference learning algorithm,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.5220v2.pdf,2013
+1301.5332v1,Online Learning with Pairwise Loss Functions,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.5332v1.pdf,2013
+1301.5650v2,"Regularization and nonlinearities for neural language models: when are
+  they needed?",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.5650v2.pdf,2013
+1301.6676v1,"Inferring Parameters and Structure of Latent Variable Models by
+  Variational Bayes",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.6676v1.pdf,2013
+1301.6677v1,"Relative Loss Bounds for On-line Density Estimation with the Exponential
+  Family of Distributions",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.6677v1.pdf,2013
+1301.6685v2,Fast Learning from Sparse Data,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.6685v2.pdf,2013
+1301.6697v4,"Parameter Priors for Directed Acyclic Graphical Models and the
+  Characterization of Several Probability Distributions",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.6697v4.pdf,2013
+1301.6710v1,On Supervised Selection of Bayesian Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.6710v1.pdf,2013
+1301.6730v1,Accelerating EM: An Empirical Study,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.6730v1.pdf,2013
+1301.6731v1,Variational Learning in Mixed-State Dynamic Graphical Models,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.6731v1.pdf,2013
+1301.6738v1,Approximate Learning in Complex Dynamic Bayesian Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.6738v1.pdf,2013
+1301.6944v1,"On the Consistency of the Bootstrap Approach for Support Vector Machines
+  and Related Kernel Based Methods",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.6944v1.pdf,2013
+1301.7375v1,Learning by Transduction,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.7375v1.pdf,2013
+1301.7376v1,Graphical Models and Exponential Families,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.7376v1.pdf,2013
+1301.7378v1,Minimum Encoding Approaches for Predictive Modeling,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.7378v1.pdf,2013
+1301.7390v1,"Hierarchical Mixtures-of-Experts for Exponential Family Regression
+  Models with Generalized Linear Mean Functions: A Survey of Approximation and
+  Consistency Results",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.7390v1.pdf,2013
+1301.7392v1,Large Deviation Methods for Approximate Probabilistic Inference,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.7392v1.pdf,2013
+1301.7393v1,Mixture Representations for Inference and Learning in Boltzmann Machines,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.7393v1.pdf,2013
+1301.7401v2,"An Experimental Comparison of Several Clustering and Initialization
+  Methods",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.7401v2.pdf,2013
+1301.7411v1,On the Geometry of Bayesian Graphical Models with Hidden Variables,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1301.7411v1.pdf,2013
+1302.0315v1,Sparse Multiple Kernel Learning with Geometric Convergence Rate,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1302.0315v1.pdf,2013
+1302.0406v1,"Generalization Guarantees for a Binary Classification Framework for
+  Two-Stage Multiple Kernel Learning",/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1302.0406v1.pdf,2013
+1302.1519v1,Update Rules for Parameter Estimation in Bayesian Networks,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1302.1519v1.pdf,2013
+1302.1545v1,Models and Selection Criteria for Regression and Classification,/Users/isabeldinan/01 Python/Info Retrieval/project/downloaded_pdfs/1302.1545v1.pdf,2013
